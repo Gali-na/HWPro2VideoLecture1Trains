@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<trains>
+    <train>
+        <date>01.02.2020</date>
+        <departure>12:00</departure>
+        <from>Krivoj Rog</from>
+        <id>1</id>
+        <to>Kiev</to>
+    </train>
+    <train>
+        <date>15.02.2020</date>
+        <departure>15:00</departure>
+        <from>Krivoj Rog</from>
+        <id>2</id>
+        <to>Lvov</to>
+    </train>
+    <train>
+        <date>15.02.2020</date>
+        <departure>15:00</departure>
+        <from>Krivoj Rog</from>
+        <id>3</id>
+        <to>Zaporizhzhia</to>
+    </train>
+</trains>
